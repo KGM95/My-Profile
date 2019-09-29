@@ -25,31 +25,7 @@ I think I can be both in the high and low scores on each category I can be an em
 
 ![Screenshot_1](https://user-images.githubusercontent.com/54801204/65826859-13372700-e2cf-11e9-9dce-22594a198894.png)
 
-
 ### My Project
-My Profile
-Kyle Molloy - S3817419
-
-My name is Kyle, I’m 23 years old and my interest in IT sparked at a young age when my father taught me how to rebuild computers and as I got older started to gain interest in online gaming and changing/installing and finding out how software on devices works, I chose to study at RMIT as its online and I can choose when to study and work it around my day to day schedule in the comfort of my own home. I expect during my study to face many different challenges that help develop my skills in the IT industry and make me understand programming and learn to successfully be able to program and build games/apps and websites etc.
-
-Something like this I think would be what I am interested getting into and maybe seeing where it takes me or see what insights it can give me and help me discover what I would enjoy doing whether it be completely different to this. A chilled work environment with a bit of banter and a supportive team behind you to turn to for help if need be is ideal but also something that challenges you that little bit each day and makes you use your brain, I tend to get bored easily so something I’m interested in that still gives a bit of a challenge I think would suit me well.
-I believe for this position you need 3 years’ experience in ICT system administration work and Tertiary qualifications in ICT or computer science or relevant industry certifications, Experience in enterprise network infrastructure, visualization technologies, active directory and windows server, backup and recovery, system monitoring and alerting. Experience in Microsoft Azure, Office 365, Zoom, Trello, Slack etc.
-
-Currently I don’t have much experience in any of the listed above mainly just basic Office skills as this has always just been a at home hobby of mine rebuilding and installing software on computers. This is my first step undertaking this course to try and gain better knowledge and qualifications to help me out in the future.
-Below is a link to a job I have attached the link also recorded a screenshot of a basic idea on the page if the link is no longer working.
-https://prnt.sc/p5gx25
-https://www.seek.com.au/job/39905321?type=standout&searchrequesttoken=d49448da-5e2e-4a40-80c9-588dd4fce21c
-
-I ended up taking a free personality test for my first test out of the three and as a result I got back that I am a mediator, I think as a result these days its somewhat true but can also depend on the topic or situation at hand but generally due to events and things that have occurred throughout my life I am learning to be a lot more calm and collective and think about others and how my reactions can affect them and not just myself. I think in every team there needs a mediator, someone who can keep the peace and use their brains to come up for a fair solution everybody can agree on, I am yet to work in a team with this different mindset so it will be interesting to see if I being a mediator would handle it well. 
-
-For my second test I decided on seeing what my learning style is and discovered I am an Auditory learner and learn by hearing or listening and tend to store information by the way it sounds, and have an easier time understanding spoken instructions than written ones. I often read by learning out loud because I have to hear it or speak it in order to know it which in a sense I think is true I also learn a lot quicker though being shown something, I think it all depends on what I am trying to learn as I forget a lot of things I hear and tend to have to take notes or write reminders. As an auditory learner, I tend to hum and talk to myself or others if I become bored. People may think I am not paying attention, even though I am just hearing and understanding everything being said and trying to comprehend it in my own way. Working in a team it may be difficult for others to comprehend this which could cause complications as I do get bored easily and become distracted but generally I do try to listen to the best I can to what others have to say and try to look interested even though whilst they may be talking I am thinking of things and different situations or generalizing on how I can reply to what the conversation is actually about.
-
-For my third and last test I did The Big Five personality test which is based on research done to test on how people see others and how five major dimensions of personality have been found. They are often referred to as Ocean model of personality because of the acronyms from the names of the five dimensions, Open mindedness where high scores tend to be original, creative, curious and complex. Low scores tend to be conventional, down to earth, narrow interests and uncreative where I scored in the low range and typically don’t seek out new experiences. Consciousness being reliable, well organized, self-disciplined, careful. Low scores tend to be unorganized, undependable and negligent where I scored in the low percentage. Extraversion tend to be sociable, friendly, fun loving, talkative. Low scorers tend to be introverted, reserved, inhibited and quiet where I scored in the low range and tend to shy away from social situations. Agreeableness where high scores tend to be sympathetic, good natured, forgiving and courteous. Low scorers tend to critical, harsh, rude, callous; I tend to find it easy to express irritations with others. Last on the list is Negative Emotionality where high scores tend to be nervous, high strung, insecure and worrying. Low scorers tend to be calm, relaxed, secure and hardy. I am generally an anxious person and tend to worry and overthink things.
-
-I think I can be both in the high and low scores on each category I can be an emotional person but then tend to be heartless and not care about what others think of me  I can be creative and curious and really want to put my everything into something I enjoy then at the same time have no interest and be done with something at the slightest setback. I can be friendly and talkative, forgiving then somedays can be quiet, unorganized. Shy away from social situations and harsh and rude. I personally think these tests can’t ever be truly a hundred person accurate as the human’s emotions and things happening to them change significantly and will differ based on their emotions as the test is taken.
-
-Below is a link to my test results for a better insight on my actual results taken on this day 15-09-2019
-https://www.outofservice.com/bigfive/results/?o=63,56,75&c=38,38,25&e=38,38,50&a=56,50,63&n=75,50,75&y=1990&g=m
 
 Now for my project I have decided to design a game using and trying to incorporate and learn bits and pieces from developing tools such as Construct2, I decided to go with just a basic one today as I have had a busy schedule all week and haven’t had much time to put this all together and this is my first time ever actually using this software and gaining any knowledge with it. I found it interesting in how you had to string the commands together so that the game operates and functions correctly and look forward to spending more quality time researching and developing my skills not just developing games but also creating apps.
 
@@ -64,19 +40,4 @@ https://www.construct.net/en/tutorials/construct-2?flang=1
 I think the project was successful on motivating me to want to learn more then just the basics as I had limited time and I look forward to seeing other people’s game, app, website designs and gaining knowledge and skills and learning from their experiences.
 
 The End
-
-
-
-
-
-
-
-
-
-.
-
-
-
-
-
 
